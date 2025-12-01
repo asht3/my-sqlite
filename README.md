@@ -19,9 +19,9 @@ The CLI has an interactive shell with readline support for query parsing. It tra
 Error handling is implemented throughout both components, with validation for tables, column references, and query structure. While not a full SQL implementation, it provides the essential features needed for basic database operations.
 
 ## Installation
-Clone this repo, then follow Usage guide:
+Clone this repo, then follow Usage guide.
 ```bash
-https://git.us.qwasar.io/my_sqlite_183544_cc1con/my_sqlite.git
+git@github.com:asht3/my-sqlite.git
 ```
 
 ## Usage
